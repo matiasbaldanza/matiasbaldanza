@@ -2,9 +2,9 @@
 
 \(_/mah-tee-ass/_ or Matt is fine\)
 
-- I'm a front-end developer who's fallen in love with [React](https://react.dev) and [Next.js](https://nextjs.org/).
-- I stream on [Twitch](https://twitch.tv/matiasbaldanza) Mo-Fri 9:30-13:00 🇦🇷 and upload to [YouTube](https://youtube.com/@MatiasBaldanza_dev) when I get around to doing it. 😁
-- I host weekly English practice sessions every Wednesday at 7pm 🇦🇷 at [Goncy's Discord](https://discord.goncy.dev)
+- I love [React](https://react.dev) and [Next.js](https://nextjs.org/).
+- 🏗️ I’m currently working full-time as a freelance translator/editorial designer (6+ years).
+- ✨ _I'm Looking for my first developer role_. ✨
 
 <br/>
 
@@ -25,11 +25,9 @@
 
 ## What I'm doing
 
-- 🏗️ I’m currently working as a freelance translator.
-- 🔍 _I'm Looking for my first developer role_.
+- I stream on [Twitch](https://twitch.tv/matiasbaldanza) Mo-Fri 9:30-13:00 🇦🇷 and upload to [YouTube](https://youtube.com/@MatiasBaldanza_dev) when I get around to doing it. 😁
 - 👨‍💻 I started streaming my daily study sessions on [Twitch](https://twitch.tv/matiasbaldanza) on September 2022.
-- 👨‍🔧 I worked in support tech roles for 20+ years.
-- 🇺🇸 I worked as a full-time translator and copyeditor (English) for 6 years.
+- I host weekly English practice sessions every Wednesday at 7pm 🇦🇷 at [Goncy's Discord](https://discord.goncy.dev)
 
 <br />
 
@@ -46,18 +44,3 @@
 ---
 
 ![Matias Baldanza's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiasbaldanza&show_icons=true&hide_border=true)
-
-<!--
-**matiasbaldanza/matiasbaldanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
