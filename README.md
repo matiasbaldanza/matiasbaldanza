@@ -2,9 +2,10 @@
 
 \(_/mah-tee-ass/_ or Matt is fine\)
 
-- I love [React](https://react.dev) and [Next.js](https://nextjs.org/).
-- 🏗️ I’m currently working full-time as a freelance translator/editorial designer (6+ years).
-- ✨ _I'm Looking for my first developer role_. ✨
+- I love working on front-end projects with [React](https://react.dev), [Next.js](https://nextjs.org/), and [Astro](https://astro.build/) but I don't mind also doing back-end with [Node.js](https://nodejs.org/), [Express](https://expressjs.com) or [Laravel](https://laravel.com/).
+- I'm currently employed as DevRel in DonWeb Cloud & IaaS, creating content for developers.
+- I used to be a sysadmin, so I'm proficient at setting up and managing Linux and Windows servers.
+- I also worked full-time as a translator (English/Spanish) for 9 years.
 
 <br/>
 
@@ -25,8 +26,8 @@
 
 ## What I'm doing
 
-- I stream on [Twitch](https://twitch.tv/matiasbaldanza) Mo-Fri 9:30-13:00 🇦🇷 and upload to [YouTube](https://youtube.com/@MatiasBaldanza_dev) when I get around to doing it. 😁
-- 👨‍💻 I started streaming my daily study sessions on [Twitch](https://twitch.tv/matiasbaldanza) on September 2022.
+- I used to stream on [Twitch](https://twitch.tv/matiasbaldanza) while I was re-learning web development. Currently figuring out how to continue because I miss it. 😁
+- 👨‍💻 I streamed my daily study sessions on [Twitch](https://twitch.tv/matiasbaldanza) from September 2022 to February 2024.
 - I host weekly English practice sessions every Wednesday at 7pm 🇦🇷 at [Goncy's Discord](https://discord.goncy.dev)
 
 <br />
