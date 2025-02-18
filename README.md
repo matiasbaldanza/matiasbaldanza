@@ -3,7 +3,7 @@
 \(_/mah-tee-ass/_ or Matt is fine\)
 
 - I love working on front-end projects with [React](https://react.dev), [Next.js](https://nextjs.org/), and [Astro](https://astro.build/) but I don't mind also doing back-end with [Node.js](https://nodejs.org/), [Express](https://expressjs.com) or [Laravel](https://laravel.com/).
-- I'm currently employed as DevRel in DonWeb Cloud & IaaS, creating content for developers.
+- I'm currently employed as DevRel in DonWeb Cloud & IaaS, creating tutorials and workshops for developers.
 - I used to be a sysadmin, so I'm proficient at setting up and managing Linux and Windows servers.
 - I also worked full-time as a translator (English/Spanish) for 9 years.
 
