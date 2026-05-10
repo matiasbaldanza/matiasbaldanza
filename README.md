@@ -16,7 +16,7 @@
 ## About me
 
 - Based in Argentina, with 🇦🇷 / 🇪🇸 citizenship and a hybrid background in software development, technical support, sysadmin work and developer education
-- Currently creating tutorials, workshops and technical content for developers at DonWeb Cloud & IaaS
+- Currently creating tutorials, workshops and technical content for developers
 - I work with React, Next.js, TypeScript, Python, Docker, Linux and VPS deployments
 - I enjoy building practical projects and explaining how they work end to end
 
